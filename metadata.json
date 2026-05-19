@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Nexus Inv - Toko Modern",
+  "description": "Dashboard manajemen inventaris toko dengan antarmuka modern yang fresh dan mudah digunakan admin masa kini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
